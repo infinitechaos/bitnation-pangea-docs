@@ -16,28 +16,15 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 # Basics
     
 ***Installation***
-    
-
-  
 
 -   Android
     
 	Bitnation Pangea can be downloaded to Android devices from the [Google Play Store](https://play.google.com/store/apps/details?id=co.bitnation) by searching for ‘Bitnation’.
-    
-
-  
 
 -   iOS
-    
+	The iOS version of Bitnation Pangea is currently available on Test Flight only. Use [this form](https://ios.bitnation.co/) on the Bitnation homepage to request an invitation to download Pangea via Test Flight.
 
-  
-
--   The iOS version of Bitnation Pangea is currently available on Test Flight only. Use [this form](https://ios.bitnation.co/) on the Bitnation homepage to request an invitation to download Pangea via Test Flight.
-    
-
-  
-
--   Account Creation/Restoration
+***Account Creation/Restoration***
     
 
   
@@ -189,5 +176,5 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzM0MTM1NiwtMTY4NTIwMzkxMV19
+eyJoaXN0b3J5IjpbLTYyNDQyNjM1NiwtMTY4NTIwMzkxMV19
 -->

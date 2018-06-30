@@ -1,18 +1,19 @@
 
 # Bitnation Pangea
+
 Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-peer governance and allow people to seize agency on their terms. Pangea can be used to create Decentralized Borderless Voluntary Nations (DBVNs), become a Citizen of one or more DBVNs, provide goods and services to one or more DBVNs, enter into smart contract-based agreements via an encrypted chat interface, execute financial transactions via encrypted chat-based smart contracts, and accrue a monetized reputation.
     
 
   
 
--   [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution/)
+[Constitution](https://github.com/Bit-Nation/BITNATION-Constitution/)
     
--   [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202018.pdf/)
+[Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202018.pdf/)
     
 
   
 
--   Basics
+# Basics
     
 
   
@@ -194,5 +195,5 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwODA5OTIwLC0xNjg1MjAzOTExXX0=
+eyJoaXN0b3J5IjpbLTExODc3MTA5NiwtMTY4NTIwMzkxMV19
 -->

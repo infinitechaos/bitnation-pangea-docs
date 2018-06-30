@@ -65,8 +65,6 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 
 ## Pangea Dapp Languages
 
-    
-
 -   JavaScript
     
 -   React Native
@@ -76,23 +74,14 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 ## Aspiring Dapp Developer Self-Teaching Protocol
 
 -   [A Better Way to Learn JavaScript](https://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C) - an affordable and easy-to-follow book with exercises at the end of each short chapter for learning the basics of JavaScript.
-    
-
-  
 
 -   Udemy offers affordable courses on [React Native](https://www.udemy.com/topic/react-native/) and [Solidity](https://www.udemy.com/topic/solidity/)
     
 
--   These courses often take the form of brief video vignettes followed by exercises. The tools needed to perform the exercises are free and easy to access.
-    
--   [React Native tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
-    
--   [Solidity tools and documentation](http://solidity.readthedocs.io/en/v0.4.24/)
-    
+-   These courses often take the form of brief video vignettes followed by exercises. The tools needed to perform the exercises are free, often made available through the Udemy courses, and easy to access.
 
-  
+## Dapp Engine
 
--   Dapp Engine
     
 
   
@@ -136,6 +125,6 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDY0NDkwNywtMTA2NjEwNzY4Miw2MD
-E4NDY5ODYsLTE2ODUyMDM5MTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjg5NDE3NzAsLTEwNjYxMDc2ODIsNj
+AxODQ2OTg2LC0xNjg1MjAzOTExXX0=
 -->

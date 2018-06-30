@@ -33,9 +33,11 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 -   The new account option will prompt you to name your account and then choose either a pin code or passphrase to secure it. You will then be taken to the Dashboard where you should immediately backup your new account’s 24 word phrase by writing it down and storing it in a safe location.
 
 ***Nations***
--   Because creating and joining Nations are smart contract actions you will need to fund your account with a nominal amount of ETH in order to execute these actions.
+Because creating and joining Nations are smart contract actions you will need to fund your account with a nominal amount of ETH in order to execute these actions.
 
-**Create Nation**
+Create Nation
+
+**
     
 
   
@@ -157,5 +159,5 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjE3NzkwMiwtMTY4NTIwMzkxMV19
+eyJoaXN0b3J5IjpbOTAwNDIxMzgxLC0xNjg1MjAzOTExXX0=
 -->

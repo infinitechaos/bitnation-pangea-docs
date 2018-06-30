@@ -25,36 +25,17 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 	The iOS version of Bitnation Pangea is currently available on Test Flight only. Use [this form](https://ios.bitnation.co/) on the Bitnation homepage to request an invitation to download Pangea via Test Flight.
 
 ***Account Creation/Restoration***
-    
-
-  
 
 -   Upon launching the app you will be presented with an option to either restore an account or create a new account.
-    
-
-  
 
 -   The restore account option will prompt you to input a 24 word phrase previously created with the Pangea app.
-    
-
-  
 
 -   The new account option will prompt you to name your account and then choose either a pin code or passphrase to secure it. You will then be taken to the Dashboard where you should immediately backup your new account’s 24 word phrase by writing it down and storing it in a safe location.
-    
 
-  
-
--   Nations
-    
-
-  
-
+***Nations***
 -   Because creating and joining Nations are smart contract actions you will need to fund your account with a nominal amount of ETH in order to execute these actions.
-    
 
-  
-
--   Create Nation
+**Create Nation**
     
 
   
@@ -176,5 +157,5 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDQyNjM1NiwtMTY4NTIwMzkxMV19
+eyJoaXN0b3J5IjpbMjA2MjE3NzkwMiwtMTY4NTIwMzkxMV19
 -->

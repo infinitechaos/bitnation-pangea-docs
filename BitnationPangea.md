@@ -55,7 +55,6 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 
   
 
-![](https://lh5.googleusercontent.com/oqRUfFUzAu7lNAibHM6kpzKFXMk3Lg7orSz0OtaYGxLO4dwJuPippHt-O-05W6U_eyvzDGL2_PuwIuy45FljmPpKrrQ-lJACClzvzg4gqkm3sQFdl_8mj5sCZNOoI0cnYCBRXy4-)
 
   
 
@@ -142,6 +141,6 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYyNjMxNDAsLTE2ODUyMDM5MTFdfQ
+eyJoaXN0b3J5IjpbLTE1MzQyMzA0MDMsLTE2ODUyMDM5MTFdfQ
 ==
 -->

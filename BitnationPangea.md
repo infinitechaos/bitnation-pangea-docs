@@ -51,10 +51,8 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 -   In order to use the encrypted chat you will need to select a Nation and then Chat from the lower menu bar. This will open up a chat interface where you can chat with other Citizens of the Nation you’ve selected.
 
 -   Within the chat interface Citizens can create and enter into smart contract-based agreements with each other. These agreements can facilitate trustless financial transactions between Citizens and the parameters and context of these contracts can be augmented using decentralized applications (Dapps) within Pangea.
-    
 
-  
-![Encrypted Chat Interface](https://github.com/infinitechaos/bitnation-pangea-docs/blob/master/Captura%20de%20pantalla%202018-06-29%20a%20la(s)%2023.50.18.png?raw=true)
+<img align="center-block" src="https://github.com/infinitechaos/bitnation-pangea-docs/blob/master/Captura%20de%20pantalla%202018-06-29%20a%20la(s)%2023.50.18.png?raw=true"></img>
 
   
 
@@ -114,6 +112,6 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTYwMjU0OSwtMTA2NjEwNzY4Miw2MD
-E4NDY5ODYsLTE2ODUyMDM5MTFdfQ==
+eyJoaXN0b3J5IjpbLTE1Njk4MTEwODEsLTczOTYwMjU0OSwtMT
+A2NjEwNzY4Miw2MDE4NDY5ODYsLTE2ODUyMDM5MTFdfQ==
 -->

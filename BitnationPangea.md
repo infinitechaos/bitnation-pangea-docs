@@ -52,7 +52,7 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 
 -   Within the chat interface Citizens can create and enter into smart contract-based agreements with each other. These agreements can facilitate trustless financial transactions between Citizens and the parameters and context of these contracts can be augmented using decentralized applications (Dapps) within Pangea.
 
-![enter image description here](https://github.com/infinitechaos/bitnation-pangea-docs/blob/master/Captura%20de%20pantalla%202018-06-29%20a%20la%28s%29%2023.50.18.png?raw=true)
+![Encrypted Chat Interface](https://github.com/infinitechaos/bitnation-pangea-docs/blob/master/Captura%20de%20pantalla%202018-06-29%20a%20la%28s%29%2023.50.18.png?raw=true)
   
 
 # Developer Resources
@@ -111,7 +111,7 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDc4MjA2NywxMTU3NTY5MjIxLC03Mz
-k2MDI1NDksLTEwNjYxMDc2ODIsNjAxODQ2OTg2LC0xNjg1MjAz
-OTExXX0=
+eyJoaXN0b3J5IjpbNTM5OTk1NTI3LDExNTc1NjkyMjEsLTczOT
+YwMjU0OSwtMTA2NjEwNzY4Miw2MDE4NDY5ODYsLTE2ODUyMDM5
+MTFdfQ==
 -->

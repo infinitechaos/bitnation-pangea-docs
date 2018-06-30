@@ -38,29 +38,16 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
    will need to fund your account with a nominal amount of ETH in order
    to execute these actions.
 
-	Create Nation
-
-**
-    
-
-  
-
+	***Create Nation***
 -   Select the Nations tab on the lower menu bar on the Dashboard and then New in the upper right corner to create a Nation. Be careful to enter the desired parameters for your Nation correctly before submitting it to the blockchain. Upon selecting Submit on the lower menu bar you will be prompted to confirm that you’d like to continue with submitting your Nation. Upon continuing you will be prompted to set the gas price for the transaction before confirming. Be sure to use a high enough gas price or the transaction may not confirm.
-    
 
-  
-
--   Join Nation
-    
-
-  
-
+	***Join Nation***
 -   Select the Nations tab on the lower menu bar on the Dashboard and browse the available Nations in order to find your desired Nation. Select your desired Nation and then select Join on the lower menu bar. You will be prompted to set the gas price for the transaction before confirming. Be sure to use a high enough gas price or the transaction may not confirm.
     
 
   
 
--   Encrypted Chat
+Encrypted Chat
     
 
   
@@ -162,5 +149,6 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDU3MTE4OCwtMTY4NTIwMzkxMV19
+eyJoaXN0b3J5IjpbLTE2MzAyNjU2ODAsLTE2ODUyMDM5MTFdfQ
+==
 -->

@@ -82,26 +82,15 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 
 ## Dapp Engine
 
-    
-
-  
-
 -   This is a selection of [template code](https://github.com/Bit-Nation/dapp-template) from which third-party developers can begin when building Pangea-ready Dapps for providing services and governance functionality to Citizens.
-    
-
-  
 
 -   The Dapp engine provides public-facing access to the Pangea API.
-    
-
   
-
 -   Additional utilities can be found in the [Pangea tools repository](https://github.com/Bit-Nation/pangea-tools).
     
 
-  
+## Example Dapp - Request for Qualifications (RFQ)
 
--   Example Dapp - Request for Qualifications (RFQ)
     
 
   
@@ -116,7 +105,7 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 
   
 
--   Additional Bitnation Pangea Resources
+# Additional Bitnation Pangea Resources
     
 
 -   GitHub: [https://github.com/Bit-Nation](https://github.com/Bit-Nation)
@@ -125,6 +114,6 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg5NDE3NzAsLTEwNjYxMDc2ODIsNj
-AxODQ2OTg2LC0xNjg1MjAzOTExXX0=
+eyJoaXN0b3J5IjpbLTczOTYwMjU0OSwtMTA2NjEwNzY4Miw2MD
+E4NDY5ODYsLTE2ODUyMDM5MTFdfQ==
 -->

@@ -15,16 +15,16 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 
 # Basics
     
-***Installation***
+
+## Installation
 
 -   Android
-    
 	Bitnation Pangea can be downloaded to Android devices from the [Google Play Store](https://play.google.com/store/apps/details?id=co.bitnation) by searching for ‘Bitnation’.
 
 -   iOS
 	The iOS version of Bitnation Pangea is currently available on Test Flight only. Use [this form](https://ios.bitnation.co/) on the Bitnation homepage to request an invitation to download Pangea via Test Flight.
 
-***Account Creation/Restoration***
+## Account Creation/Restoration
 
 -   Upon launching the app you will be presented with an option to either restore an account or create a new account.
 
@@ -32,7 +32,7 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 
 -   The new account option will prompt you to name your account and then choose either a pin code or passphrase to secure it. You will then be taken to the Dashboard where you should immediately backup your new account’s 24 word phrase by writing it down and storing it in a safe location.
 
-***Nations***
+## Nations
 
  - Because creating and joining Nations are smart contract actions you
    will need to fund your account with a nominal amount of ETH in order
@@ -47,7 +47,8 @@ Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-
 
   
 
-Encrypted Chat
+## Encrypted Chat
+
     
 
   
@@ -149,6 +150,5 @@ Encrypted Chat
     
 -   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzAyNjU2ODAsLTE2ODUyMDM5MTFdfQ
-==
+eyJoaXN0b3J5IjpbNTM3Mjc1NjQ4LC0xNjg1MjAzOTExXX0=
 -->

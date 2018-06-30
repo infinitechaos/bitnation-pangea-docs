@@ -1,146 +1,202 @@
-# Bitnation Pangea
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
+-   Introduction
+    
 
+  
 
-# Files
+-   Bitnation’s Pangea is a smartphone application intended to facilitate peer-to-peer governance and allow people to seize agency on their terms. Pangea can be used to create Decentralized Borderless Voluntary Nations (DBVNs), become a Citizen of one or more DBVNs, provide goods and services to one or more DBVNs, enter into smart contract-based agreements via an encrypted chat interface, execute financial transactions via encrypted chat-based smart contracts, and accrue a monetized reputation.
+    
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+  
 
-## Create files and folders
+-   [Constitution](https://github.com/Bit-Nation/BITNATION-Constitution/)
+    
+-   [Whitepaper](https://github.com/Bit-Nation/Pangea-Docs/blob/master/BITNATION%20Pangea%20Whitepaper%202018.pdf/)
+    
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+  
 
-## Switch to another file
+-   Basics
+    
 
-All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
+  
 
-## Rename a file
+-   Installation
+    
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+  
 
-## Delete a file
+-   Android
+    
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+  
 
-## Export a file
+-   Bitnation Pangea can be downloaded to Android devices from the [Google Play Store](https://play.google.com/store/apps/details?id=co.bitnation) by searching for ‘Bitnation’.
+    
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+  
 
+-   iOS
+    
 
-# Synchronization
+  
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+-   The iOS version of Bitnation Pangea is currently available on Test Flight only. Use [this form](https://ios.bitnation.co/) on the Bitnation homepage to request an invitation to download Pangea via Test Flight.
+    
 
-There are two types of synchronization and they can complement each other:
+  
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
+-   Account Creation/Restoration
+    
 
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+  
 
-## Open a file
+-   Upon launching the app you will be presented with an option to either restore an account or create a new account.
+    
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+  
 
-## Save a file
+-   The restore account option will prompt you to input a 24 word phrase previously created with the Pangea app.
+    
 
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
+  
 
-## Synchronize a file
+-   The new account option will prompt you to name your account and then choose either a pin code or passphrase to secure it. You will then be taken to the Dashboard where you should immediately backup your new account’s 24 word phrase by writing it down and storing it in a safe location.
+    
 
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+  
 
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+-   Nations
+    
 
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+  
 
-## Manage file synchronization
+-   Because creating and joining Nations are smart contract actions you will need to fund your account with a nominal amount of ETH in order to execute these actions.
+    
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+  
 
+-   Create Nation
+    
 
-# Publication
+  
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+-   Select the Nations tab on the lower menu bar on the Dashboard and then New in the upper right corner to create a Nation. Be careful to enter the desired parameters for your Nation correctly before submitting it to the blockchain. Upon selecting Submit on the lower menu bar you will be prompted to confirm that you’d like to continue with submitting your Nation. Upon continuing you will be prompted to set the gas price for the transaction before confirming. Be sure to use a high enough gas price or the transaction may not confirm.
+    
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+  
 
-## Publish a File
+-   Join Nation
+    
 
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
+  
 
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
+-   Select the Nations tab on the lower menu bar on the Dashboard and browse the available Nations in order to find your desired Nation. Select your desired Nation and then select Join on the lower menu bar. You will be prompted to set the gas price for the transaction before confirming. Be sure to use a high enough gas price or the transaction may not confirm.
+    
 
-## Update a publication
+  
 
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
+-   Encrypted Chat
+    
 
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
+  
 
-## Manage file publication
+-   In order to use the encrypted chat you will need to select a Nation and then Chat from the lower menu bar. This will open up a chat interface where you can chat with other Citizens of the Nation you’ve selected.
+    
 
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
+  
 
+-   Within the chat interface Citizens can create and enter into smart contract-based agreements with each other. These agreements can facilitate trustless financial transactions between Citizens and the parameters and context of these contracts can be augmented using decentralized applications (Dapps) within Pangea.
+    
 
-# Markdown extensions
+  
 
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
+![](https://lh5.googleusercontent.com/oqRUfFUzAu7lNAibHM6kpzKFXMk3Lg7orSz0OtaYGxLO4dwJuPippHt-O-05W6U_eyvzDGL2_PuwIuy45FljmPpKrrQ-lJACClzvzg4gqkm3sQFdl_8mj5sCZNOoI0cnYCBRXy4-)
 
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+  
 
+-   Developer Resources
+    
 
-## SmartyPants
+  
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+-   Pangea Dapp Languages
+    
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+-   JavaScript
+    
+-   React Native
+    
+-   Solidity
+    
 
+  
 
-## KaTeX
+-   Aspiring Dapp developer self-teaching guidelines
+    
 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+  
 
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+-   [A Better Way to Learn JavaScript](https://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C) - an affordable and easy-to-follow book with exercises at the end of each short chapter for learning the basics of JavaScript.
+    
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+  
 
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+-   Udemy offers affordable courses on [React Native](https://www.udemy.com/topic/react-native/) and [Solidity](https://www.udemy.com/topic/solidity/)
+    
 
+-   These courses often take the form of brief video vignettes followed by exercises. The tools needed to perform the exercises are free and easy to access.
+    
+-   [React Native tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
+    
+-   [Solidity tools and documentation](http://solidity.readthedocs.io/en/v0.4.24/)
+    
 
-## UML diagrams
+  
 
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+-   Dapp Engine
+    
 
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+  
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
+-   This is a selection of [template code](https://github.com/Bit-Nation/dapp-template) from which third-party developers can begin when building Pangea-ready Dapps for providing services and governance functionality to Citizens.
+    
 
-And this will produce a flow chart:
+  
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+-   The Dapp engine provides public-facing access to the Pangea API.
+    
+
+  
+
+-   Additional utilities can be found in the [Pangea tools repository](https://github.com/Bit-Nation/pangea-tools).
+    
+
+  
+
+-   Example Dapp - Request for Qualifications (RFQ)
+    
+
+  
+
+-   This Dapp allows a Nation to publish a smart contract containing parameters of goods or services sought by the Nation to be auctioned to the lowest qualified bidder. The winning entity is bound to the terms of the RFQ which may include a variety of options for payment such as subscription, payment plans, etc.
+    
+
+  
+
+-   This Dapp provides fundamental utility necessary for self-governance within Pangea.
+    
+
+  
+
+-   Additional Bitnation Pangea Resources
+    
+
+-   GitHub: [https://github.com/Bit-Nation](https://github.com/Bit-Nation)
+    
+-   Website: [https://tse.bitnation.co/](https://tse.bitnation.co/)
+    
+-   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NTE4MzY0XX0=
+eyJoaXN0b3J5IjpbLTE2ODUyMDM5MTFdfQ==
 -->

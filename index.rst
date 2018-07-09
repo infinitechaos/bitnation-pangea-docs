@@ -24,16 +24,16 @@ Installation
 	Bitnation Pangea can be downloaded to Android devices from the [Google Play Store](https://play.google.com/store/apps/details?id=co.bitnation) by searching for ‘Bitnation’.
 
 -   iOS
-	The iOS version of Bitnation Pangea is currently available on Test Flight only. Use [this form](https://ios.bitnation.co/) on the Bitnation homepage to request an invitation to download Pangea via Test Flight.
+	The iOS version of Bitnation Pangea is currently available on Test Flight only. Use `this form <https://ios.bitnation.co/>`_ on the Bitnation homepage to request an invitation to download Pangea via Test Flight.
 
 Account Creation/Restoration
 ============================
 
 -	Upon launching the app you will be presented with an option to either restore an account or create a new account.
 
--   The restore account option will prompt you to input a 24 word phrase previously created with the Pangea app.
+-   	The restore account option will prompt you to input a 24 word phrase previously created with the Pangea app.
 
--   The new account option will prompt you to name your account and then choose either a pin code or passphrase to secure it. You will then be taken to the Dashboard where you should immediately backup your new account’s 24 word phrase by writing it down and storing it in a safe location.
+-   	The new account option will prompt you to name your account and then choose either a pin code or passphrase to 		secure it. You will then be taken to the Dashboard where you should immediately backup your new account’s 24 word 	phrase by writing it down and storing it in a safe location.
 
 Nations
 =======

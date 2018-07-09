@@ -29,7 +29,7 @@ Installation
 Account Creation/Restoration
 ============================
 
--   Upon launching the app you will be presented with an option to either restore an account or create a new account.
+-	Upon launching the app you will be presented with an option to either restore an account or create a new account.
 
 -   The restore account option will prompt you to input a 24 word phrase previously created with the Pangea app.
 

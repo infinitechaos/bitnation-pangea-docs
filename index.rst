@@ -21,7 +21,7 @@ Installation
 ============
 
 -   Android
-	Bitnation Pangea can be downloaded to Android devices from the [Google Play Store](https://play.google.com/store/apps/details?id=co.bitnation) by searching for ‘Bitnation’.
+	Bitnation Pangea can be downloaded to Android devices from the `Google Play Store <https://play.google.com/store/apps/details?id=co.bitnation>`_ by searching for ‘Bitnation’.
 
 -   iOS
 	The iOS version of Bitnation Pangea is currently available on Test Flight only. Use `this form <https://ios.bitnation.co/>`_ on the Bitnation homepage to request an invitation to download Pangea via Test Flight.

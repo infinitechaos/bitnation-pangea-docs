@@ -38,9 +38,9 @@ Account Creation/Restoration
 Nations
 =======
 
- - Because creating and joining Nations are smart contract actions you
-   will need to fund your account with a nominal amount of ETH in order
-   to execute these actions.
+Because creating and joining Nations are smart contract actions you
+will need to fund your account with a nominal amount of ETH in order
+to execute these actions.
 
 Create Nation
 ^^^^^^^^^^^^^

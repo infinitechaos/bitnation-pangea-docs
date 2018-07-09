@@ -101,8 +101,8 @@ Example Dapp - Request for Qualifications (RFQ)
 Additional Bitnation Pangea Resources
 *************************************
 
--   GitHub: [https://github.com/Bit-Nation](https://github.com/Bit-Nation)
+-   GitHub: https://github.com/Bit-Nation](https://github.com/Bit-Nation
     
--   Website: [https://tse.bitnation.co/](https://tse.bitnation.co/)
+-   Website: https://tse.bitnation.co/](https://tse.bitnation.co/
     
--   Steemit: [https://steemit.com/@bitnation](https://steemit.com/@bitnation)
+-   Steemit: https://steemit.com/@bitnation](https://steemit.com/@bitnation

@@ -84,11 +84,11 @@ Aspiring Dapp Developer Self-Teaching Protocol
 Dapp Engine
 ===========
 
--   This is a selection of [template code](https://github.com/Bit-Nation/dapp-template) from which third-party developers can begin when building Pangea-ready Dapps for providing services and governance functionality to Citizens.
+-   This is a selection of `template code <https://github.com/Bit-Nation/dapp-template>`_ from which third-party developers can begin when building Pangea-ready Dapps for providing services and governance functionality to Citizens.
 
 -   The Dapp engine provides public-facing access to the Pangea API.
   
--   Additional utilities can be found in the [Pangea tools repository](https://github.com/Bit-Nation/pangea-tools).
+-   Additional utilities can be found in the `Pangea tools repository <https://github.com/Bit-Nation/pangea-tools>`_.
 
 Example Dapp - Request for Qualifications (RFQ)
 ===============================================
